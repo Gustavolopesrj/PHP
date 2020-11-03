@@ -1,0 +1,38 @@
+center {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#godgames {
+    color: white;
+}
+
+#Produtos {
+    color: white;
+}
+
+#Lojas {
+    color: white;
+}
+
+#fale_conosco {
+    color: white;
+}
+
+#formadepagamento {
+    color: red;
+}
+
+h3 {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu {
+    background-color: #000000
+}

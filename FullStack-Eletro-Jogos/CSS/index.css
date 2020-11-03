@@ -1,0 +1,37 @@
+center {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#godgames {
+    color: white;
+}
+
+#Produtos {
+    color: white;
+}
+
+#Lojas {
+    color: white;
+}
+
+#fale_conosco {
+    color: white;
+}
+
+#formadepagamento {
+    color: red;
+}
+
+.menu {
+    background-color: #000000
+}
+
+.menu a {
+    text-decoration: none;
+    color: white
+}
+
+#rodape {
+    text-align: center;
+}
